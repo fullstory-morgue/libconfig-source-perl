@@ -1,0 +1,6 @@
+Revision history for Perl extension Config::Source.
+
+0.01  Fri Jun 15 14:52:04 2007
+	- original version; created by h2xs 1.23 with options
+		-X -n Config::Source
+
