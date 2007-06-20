@@ -1,0 +1,17 @@
+Source: libconfig-source-perl
+Section: perl
+Priority: optional
+Maintainer: Kel Modderman <kel@otaku42.de>
+Build-Depends: cdbs, debhelper (>= 5), perl
+Standards-Version: 3.7.2
+
+Package: libconfig-source-perl
+Architecture: all
+Depends: ${perl:Depends}
+Description: Perl extension for sourcing shell scripts
+ Config::Source is a Perl module that can source shell scripts.
+ It actually invokes /bin/sh, so it can handle anything the shell
+ otherwise would have, including nested sourcing, arrays, and
+ shell instructions. It returns the variables set by the sourced
+ script, so that your Perl script can use the same configuration
+ files as your shell scripts.
