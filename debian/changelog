@@ -1,8 +1,9 @@
 libconfig-source-perl (0.02-3) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * update to Standards-Version 3.7.3, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 18:56:46 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 03 Dec 2007 13:54:07 +0100
 
 libconfig-source-perl (0.02-2) unstable; urgency=low
 
