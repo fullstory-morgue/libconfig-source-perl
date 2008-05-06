@@ -1,8 +1,9 @@
-libconfig-source-perl (0.02-6) UNRELEASED; urgency=low
+libconfig-source-perl (0.02-6) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 20 Feb 2008 23:35:49 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:32:30 +0200
 
 libconfig-source-perl (0.02-5) unstable; urgency=low
 
